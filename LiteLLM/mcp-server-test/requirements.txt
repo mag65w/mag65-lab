@@ -1,0 +1,6 @@
+PyGithub
+fastapi
+uvicorn[standard]
+python-dotenv
+mcp
+
